@@ -38,7 +38,7 @@ Built with these technologies
 
 
 ### For More Information
-1. Read the ReadMe.txt
+1. Read the `ReadMe.txt`
 #### This will include more information about:
  - The Database Setup (import in phpmyadmin)
  - Registration Details 

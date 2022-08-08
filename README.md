@@ -17,8 +17,8 @@ Built with these technologies
 
 
 ## Requirements
-You need to have PHP version **8.0** or above. Node.js version **12.0** or above.
-You also need to have XAMPP Server installed. 
+- You need to have PHP version **8.0** or above. Node.js version **12.0** or above.
+- You also need to have XAMPP Server installed. 
 
 
 ## Installation
@@ -39,7 +39,7 @@ You also need to have XAMPP Server installed.
 
 ### For More Information
 1. Read the ReadMe.txt
- - This will include more information about:
+This will include more information about:
  - The Database Setup (import in phpmyadmin)
  - Registration Details 
  - User Details (Admin & Normal Users)

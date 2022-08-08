@@ -12,9 +12,6 @@ Built with these technologies
         <td>
             <a href="https://tailwindcss.com/"><img src="https://i.imgur.com/wdYXsgR.png" /></a>
         </td>
-        <td>
-            <img src="https://i.imgur.com/Kp5kTUp.png" />
-        </td>
     </tr>
 </table> 
 
@@ -43,6 +40,6 @@ You also need to have XAMPP Server installed.
 ### For More Information
 1. Read the ReadMe.txt
  - This will include more information about:
-    . The Database Setup (import in phpmyadmin)
-    . Registration Details 
-    . User Details (Admin & Normal Users)
+ - The Database Setup (import in phpmyadmin)
+ - Registration Details 
+ - User Details (Admin & Normal Users)
